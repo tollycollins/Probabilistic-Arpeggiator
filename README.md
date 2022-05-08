@@ -6,3 +6,6 @@ https://bela.io/
 Only original code included
 
 Full report describing the project also included
+
+See the video demonstration here:
+https://drive.google.com/file/d/1qjuHvpLSxDIngjkTqzjYL0MVgmZOZs5-/view?usp=sharing
