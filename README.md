@@ -5,7 +5,7 @@ https://bela.io/
 
 main audio loop in render.cpp
 
-Only original code included
+Note: Only original code for this project is included
 
 Full report describing the project also included: Report - Probabilistic Arpeggiator.pdf
 
