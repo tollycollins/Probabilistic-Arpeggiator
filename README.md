@@ -3,6 +3,8 @@
 Probabilistic Arpeggiator created on the Bela platform
 https://bela.io/
 
+main audio loop in render.cpp
+
 Only original code included
 
 Full report describing the project also included: Report - Probabilistic Arpeggiator.pdf
